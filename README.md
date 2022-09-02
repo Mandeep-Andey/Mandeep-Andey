@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mandeep-Andey
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DSA 
-- 💞️ I’m looking to collaborate on WebDev Projects, DSA related stuff.
+- 👀 I’m interested in Programming. 
 - 📫 How to reach me andeymandeep@gmail.com
 
 <!---
